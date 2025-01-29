@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `useParams` hook in React Router v6. The `useParams` hook must be used within a `Route` component to access route parameters correctly.  Using it outside results in undefined values.  The solution shows how to properly structure the component to access the route parameters.
